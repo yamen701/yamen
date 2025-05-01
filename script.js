@@ -1,3 +1,5 @@
-document.addEventListener("DOMContentLoaded", function () {
-  console.log("BitsRewards site loaded!");
-});
+
+function start() {
+  alert("Redirecting to registration...");
+  // Add redirection logic here
+}
