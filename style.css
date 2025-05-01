@@ -1,0 +1,23 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #0d0d0d;
+  color: #d6b0ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  text-align: center;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #8a2be2;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
